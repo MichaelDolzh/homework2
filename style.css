@@ -1,0 +1,26 @@
+table{
+    margin: auto;
+}
+table a{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+}
+.element_red{
+    background: #ff6161;
+}
+.element_red:hover{
+    background: red;
+}
+.element_el{
+    background: #fafc74;
+}
+.element_el:hover{
+    background: yellow;
+}
+.element_blue{
+    background: #74bbfc;
+}
+.element_blue:hover{
+    background: blue;
+}
